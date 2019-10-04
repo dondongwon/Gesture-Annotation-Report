@@ -59,7 +59,7 @@ Rest is a phase with no motion and conveys no communicative meaning. Often, many
 
 Fig. 2: CMU Researchers Annotations
 
-![](../src/research-images/yukikodongannotations.png)
+![](yukikodongannotations.png)
 
 Fig 3. MTurk Annotations
 
